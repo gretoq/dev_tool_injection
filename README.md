@@ -1,4 +1,4 @@
-### JavaScript Code for Adding a Div to the Categories Page
+## JavaScript Code for Adding a Div to the Categories Page
 
 This JavaScript code creates and inserts a div element into the categories page for products. See below for a breakdown of each part of the code:
 
@@ -20,6 +20,6 @@ This JavaScript code creates and inserts a div element into the categories page 
 
 This code adds a stylized div with random text to the page, providing responsiveness for various screen sizes.
 
-### How it work and looks like?
+## How it work and looks like?
 
 https://github.com/gretoq/dev_tool_injection/assets/104682987/c11bc808-0803-4b51-9ab7-a16f6960ff72
